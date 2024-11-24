@@ -1,6 +1,7 @@
 # Atliq-Hardware-Sales-Insights-Using-PowerBI-and-SQL
 
 
+![Uploading image.png…]()
 
 ## Problem Statement
 
