@@ -6,26 +6,6 @@ AtliQ hardware is a company which delivers computer hardware & peripheral Manufa
 
 To fix this, AtliQ hardware needs a solution that can clearly show their sales patterns. This way, they can use data to make decisions and improve their business. This project aims to help them boost sales, meet their financial goals, and enhance their overall performance.
 
-## Data Discovery
-
-**Project  Planning using AIMS Grid** -
-It is a project management tool which consists of four components-
-
-- Purpose - (What to do exactly)
-- Stackholder - (Who will be involved)
-- End result - (What do you want to achieve)
-- Success Criteria - (Cost optimization and time save)
-
-### AIMS Grid
-1. **Purpose** :- To unlock sales insights that are not visible before for the sales them for decision support and automate them to reduced manual time spent in data gathering.
-
-2. **Stakeholders** :- Sales Director, Marketing Team, Customer Service Team, Data and Analytics Team, IT
-
-3. **End result** :- An automated dashboard providing quick and latest sights in order to support Data driven decision making.
-
-4. **Success Criteria** :- Dashboard uncovering sales order insights with latest data available. Sales team able to take better decisions and prove 10% cost saving of total spend. Sales analysis stop data gathering manually in order to save 20% business time and reinvest it value added activity.
-
-
 ## Data Analysis using MySQL
 Completed the Data discovery and then used mySQL for data analysis. SQL database dump is in db_dump.sql file above. Download db_dump.sql file to your local computer.
 
