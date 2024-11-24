@@ -1,7 +1,9 @@
 # Atliq-Hardware-Sales-Insights-Using-PowerBI-and-SQL
 
 
-![Uploading image.png…]()
+![Project Screenshot](![image](https://github.com/user-attachments/assets/5fde128d-3779-42a4-82df-644de3e3613d)
+)
+
 
 ## Problem Statement
 
